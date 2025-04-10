@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**Sneh9110/Sneh9110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 2nd-year B.Tech IT student with a growing passion for **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 
-Here are some ideas to get you started:
+💡 Currently learning:
+- Python for Data Science
+- NumPy, Pandas, and Matplotlib
+- Machine Learning with scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Goals:
+- Build 3-5 beginner projects and upload them here
+- Apply for AI/ML internships at top colleges and MNCs
+- Learn from the open-source community
+
+🚀 Let's connect:
+- 💼 [LinkedIn : (https://www.linkedin.com/in/sneh-brahmbhatt-17155b2ab/)]
+- 📬 Email: brahmbhattsneh10@gmail.com
+
+🌱 *“Still learning, but learning every day.”*
