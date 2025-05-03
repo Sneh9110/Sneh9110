@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sneh Brahmbhatt 👋
 
 🎓 I'm a 2nd-year B.Tech IT student with a growing passion for **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 
