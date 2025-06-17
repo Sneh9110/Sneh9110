@@ -1,6 +1,6 @@
 # Hi there, I'm Sneh Brahmbhatt 👋
 
-🎓 I'm a 2nd-year B.Tech IT student with a growing passion for **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
+🎓 I'm a 3rd-year B.Tech IT student with a growing passion for **Artificial Intelligence**, **Machine Learning**, and **Data Science**.
 
 💡 Currently learning:
 - Python for Data Science
