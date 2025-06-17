@@ -14,6 +14,6 @@
 
 🚀 Let's connect:
 - 💼 LinkedIn : (https://www.linkedin.com/in/sneh-brahmbhatt-17155b2ab/)
-- 📬 Email: brahmbhattsneh10@gmail.com
+- 📬 Email: snehonpurpose10@gmail.com
 
 🌱 *“Still learning, but learning every day.”*
